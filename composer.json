@@ -1,0 +1,17 @@
+{
+    "name": "oil/toy-container",
+    "authors": [
+        {
+            "name": "tasuku43",
+            "email": "task.teckac@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ToyContainer\\": "src/"
+        }
+    },
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
